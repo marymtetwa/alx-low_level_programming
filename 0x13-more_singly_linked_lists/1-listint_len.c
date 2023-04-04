@@ -2,6 +2,7 @@
 
 /**
  * Question 1 of assignment 0x13.c
+ * @h :linked list of type listint_t to traverse
  * listint_len - returns the number of elements in a linked lists
  * Return: number of nodes
  */
